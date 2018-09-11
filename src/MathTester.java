@@ -21,7 +21,7 @@ public class MathTester {
         System.out.println(total);
         total = total + 10;
         System.out.println(total);
-
+        System.out.println(total+total);
 
     /*    System.out.println("firstWord+secondWord");
         System.out.println("firstWord+(firstNumber+secondNumber)");
