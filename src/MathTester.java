@@ -13,8 +13,8 @@ public class MathTester {
 
 
 
-        firstword = "cat";
-        secondword = "pen";
+        firstword = "house";
+        secondword = "fly";
         firstNumber = 5;
         secondNumber = 10;
         total = firstNumber + secondNumber;
