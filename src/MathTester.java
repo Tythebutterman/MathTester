@@ -13,15 +13,15 @@ public class MathTester {
 
 
 
-        firstword = "house";
-        secondword = "fly";
-        firstNumber = 10;
+        firstword = "dog";
+        secondword = "house";
+        firstNumber = 5;
         secondNumber = 10;
         total = firstNumber + secondNumber;
         System.out.println(total);
         total = total + 10;
         System.out.println(total);
-        System.out.println(total+total);
+        
 
     /*    System.out.println("firstWord+secondWord");
         System.out.println("firstWord+(firstNumber+secondNumber)");
