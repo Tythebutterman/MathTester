@@ -15,7 +15,7 @@ public class MathTester {
 
         firstword = "house";
         secondword = "fly";
-        firstNumber = 5;
+        firstNumber = 10;
         secondNumber = 10;
         total = firstNumber + secondNumber;
         System.out.println(total);
